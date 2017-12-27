@@ -1,6 +1,7 @@
 name: authors_rest_api
 dependencies: 
   angel_auth: ^1.1.0
+  angel_configuration: ^1.1.0
   angel_file_service: ^1.0.0
   angel_framework: ^1.1.0
   angel_hot: ^1.1.0
